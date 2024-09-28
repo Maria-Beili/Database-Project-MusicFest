@@ -1,6 +1,8 @@
 
 Music Festival Database Project
+
 Overview
+
 This project consists of a comprehensive database design and implementation for a music festival management system, developed as a series of labs for academic purposes. The repository includes different components, each focusing on distinct aspects of database design, data manipulation, and advanced SQL programming.
 
 The goal is to build and optimize a database system that can manage various entities involved in a music festival, such as festivalgoers, staff, artists, products, vendors, shows, and stages. The project is divided into three main labs:
